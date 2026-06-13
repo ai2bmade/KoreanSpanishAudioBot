@@ -431,6 +431,7 @@ bot.start(async (ctx) => {
       "Para repetir, solo toca el archivo de audio otra vez.",
       "",
       "Los usuarios gratuitos pueden escuchar 3 expresiones al día.",
+      "Si apoyas el proyecto con $5 en Buy Me a Coffee, tendrás acceso por 3 meses y podrás practicar muchas expresiones sin límite.",
       "",
       "Si quieres practicar dictado en coreano, entra aquí:",
       "https://t.me/KoreanListeningBot",
