@@ -1,0 +1,25 @@
+{
+    "expressions":  [
+                        {
+                            "id":  "exp_000001",
+                            "ko":  "안녕",
+                            "foreign":  "Hola",
+                            "language":  "Mexican Spanish",
+                            "audio":  "audio/public/exp_000001.ogg"
+                        },
+                        {
+                            "id":  "exp_000002",
+                            "ko":  "고마워",
+                            "foreign":  "Gracias",
+                            "language":  "Mexican Spanish",
+                            "audio":  "audio/public/exp_000002.ogg"
+                        },
+                        {
+                            "id":  "exp_000003",
+                            "ko":  "미안해",
+                            "foreign":  "Perdón",
+                            "language":  "Mexican Spanish",
+                            "audio":  "audio/public/exp_000003.ogg"
+                        }
+                    ]
+}

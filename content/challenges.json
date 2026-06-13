@@ -1,0 +1,19 @@
+{
+  "challenges": [
+    {
+      "id": "exp_000001",
+      "koWrong": "고마워",
+      "foreignWrong": "Gracias"
+    },
+    {
+      "id": "exp_000002",
+      "koWrong": "미안해",
+      "foreignWrong": "Perdón"
+    },
+    {
+      "id": "exp_000003",
+      "koWrong": "안녕",
+      "foreignWrong": "Hola"
+    }
+  ]
+}
