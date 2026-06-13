@@ -1,5 +1,5 @@
 services:
-  korean-russian-audio-bot:
+  korean-spanish-audio-bot:
     build: .
     restart: unless-stopped
     environment:
@@ -9,7 +9,7 @@ services:
       FREE_DAILY_LIMIT: ${FREE_DAILY_LIMIT:-3}
       DATA_DIR: /app/data
     volumes:
-      - korean-russian-audio-bot-data:/app/data
+      - korean-spanish-audio-bot-data:/app/data
 
 volumes:
-  korean-russian-audio-bot-data:
+  korean-spanish-audio-bot-data:
