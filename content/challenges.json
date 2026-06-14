@@ -12,6 +12,16 @@
     },
     {
       "id": "exp_000003",
+      "koWrong": "괜찮아",
+      "foreignWrong": "Está bien"
+    },
+    {
+      "id": "exp_000004",
+      "koWrong": "좋아요",
+      "foreignWrong": "Bien"
+    },
+    {
+      "id": "exp_000005",
       "koWrong": "안녕",
       "foreignWrong": "Hola"
     }

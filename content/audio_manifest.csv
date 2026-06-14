@@ -2,3 +2,5 @@ id,type,language,ko,foreign,source_file,public_file
 exp_000001,expression,Mexican Spanish,안녕,Hola,K00121_안녕_Hola.mp3,audio/public/exp_000001.ogg
 exp_000002,expression,Mexican Spanish,고마워,Gracias,K00122_고마워_Gracias.mp3,audio/public/exp_000002.ogg
 exp_000003,expression,Mexican Spanish,미안해,Perdón,K00123_미안해_Perdón.mp3,audio/public/exp_000003.ogg
+exp_000004,expression,Mexican Spanish,괜찮아,Está bien,K00124_괜찮아_Está bien.mp3,audio/public/exp_000004.ogg
+exp_000005,expression,Mexican Spanish,좋아요,Bien,K00125_좋아요_Bien.mp3,audio/public/exp_000005.ogg
